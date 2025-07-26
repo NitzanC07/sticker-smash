@@ -5,29 +5,29 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Learning topics
 
 ### Part 1 - Expo tutorial
-- [x] Create an app
-- [] Add navigation
-- [] Build a screen
-- [] Use an image picker
-- [] Create a modal
-- [] Add gestures
-- [] Take a screenshot
-- [] Handle platform differecnes
-- [] Configure status bar, splash screen and app icon
-- [] Learning resources
-
+* [x] Create an app
+* [ ] Add navigation
+* [ ] Build a screen
+* [ ] Use an image picker
+* [ ] Create a modal
+* [ ] Add gestures
+* [ ] Take a screenshot
+* [ ] Handle platform differecnes
+* [ ] Configure status bar, splash screen and app icon
+* [ ] Learning resources
+ 
 ### Part 2 - EAS tutorial
-- [] Configuration development build
-- [] Android development build
-- [] iOS development build for simulators
-- [] iOS development build for devices
-- [] Multiple app variants
-- [] Internal distribution build
-- [] Manage app versions
-- [] Android build production
-- [] iOS production build
-- [] Share previews
-- [] Builds from GitHub
+* [ ] Configuration development build
+* [ ] Android development build
+* [ ] iOS development build for simulators
+* [ ] iOS development build for devices
+* [ ] Multiple app variants
+* [ ] Internal distribution build
+* [ ] Manage app versions
+* [ ] Android build production
+* [ ] iOS production build
+* [ ] Share previews
+* [ ] Builds from GitHub
 
 ## Get started
 
