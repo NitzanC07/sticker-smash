@@ -6,7 +6,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ### Part 1 - Expo tutorial
 * [x] Create an app
-* [ ] Add navigation
+* [x] Add navigation
 * [ ] Build a screen
 * [ ] Use an image picker
 * [ ] Create a modal
