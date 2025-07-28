@@ -6,8 +6,21 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ### Part 1 - Expo tutorial
 * [x] Create an app
+   * Create new app with `create-expo-app`.
+   * The basic structure of expo app.
+   * The main screen (index.tsx).
+   * Basic components - `View` and `Text`.
 * [x] Add navigation
-* [ ] Build a screen
+   * Expo router in the app directory.
+   * Layouts files.
+   * Defining different screens with `Stack` component.
+   * Navigate between screens with `Link` component.
+   * Not found route - `+not-found.tsx`.
+   * Grouped some screen together with parentheses `()`, and creating `Tabs` buttons.
+* [x] Build a screen
+   * Using `expo-image` library.
+   * Divide components into seperate files - the components directory.
+   * Create button with `Pressable` component.
 * [ ] Use an image picker
 * [ ] Create a modal
 * [ ] Add gestures
