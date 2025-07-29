@@ -21,7 +21,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    * Using `expo-image` library.
    * Divide components into seperate files - the components directory.
    * Create button with `Pressable` component.
-* [ ] Use an image picker
+* [x] Use an image picker
+   * Using the library expo-image-picker to pick an image from the gallery of the local device, and edit the image before uploading it to the app.
+   * Using an async function `launchImageLibraryAsync()` from this library.
+   * Understanding the result that this function return, and how to use the `uri`, and the status of the `canceled` property. 
+   * Implement all in the app.
 * [ ] Create a modal
 * [ ] Add gestures
 * [ ] Take a screenshot
