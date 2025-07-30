@@ -26,7 +26,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    * Using an async function `launchImageLibraryAsync()` from this library.
    * Understanding the result that this function return, and how to use the `uri`, and the status of the `canceled` property. 
    * Implement all in the app.
-* [ ] Create a modal
+* [x] Create a modal
+   * Use `<Modal>` component.
+   * Using with the `@expo/vector-icons` library. 
+   * Creating list of emojies for the modal from the assets directory.
+   * Using `ImageSourcePropType` from react-native for put the emoji on the image.
 * [ ] Add gestures
 * [ ] Take a screenshot
 * [ ] Handle platform differecnes
