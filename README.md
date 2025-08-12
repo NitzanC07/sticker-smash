@@ -31,7 +31,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    * Using with the `@expo/vector-icons` library. 
    * Creating list of emojies for the modal from the assets directory.
    * Using `ImageSourcePropType` from react-native for put the emoji on the image.
-* [ ] Add gestures
+* [x] Add gestures
+   * Learn how to manipulate an image with duble tap.
+   * Learn how to manipulate an image with drag it and change the location on the screen.
 * [ ] Take a screenshot
 * [ ] Handle platform differecnes
 * [ ] Configure status bar, splash screen and app icon
