@@ -34,8 +34,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 * [x] Add gestures
    * Learn how to manipulate an image with duble tap.
    * Learn how to manipulate an image with drag it and change the location on the screen.
-* [ ] Take a screenshot
-* [ ] Handle platform differecnes
+* [x] Take a screenshot
+   * Install the `react-native-view-shot` and `expo-media-library` packages.
+   * Using with `requestPremission()` to get premission to the library of the machine.
+   * Capture the specific frame view in the screen and save it to the library.
+* [x] Handle platform differecnes
+   * Install `dom-to-image` library.
+   * Make the save image feature useful in mobile platforms (Android and iOS) and in a web platform both.
 * [ ] Configure status bar, splash screen and app icon
 * [ ] Learning resources
  
