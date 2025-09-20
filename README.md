@@ -5,57 +5,62 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Learning topics
 
 ### Part 1 - Expo tutorial
-* [x] Create an app
-   * Create new app with `create-expo-app`.
-   * The basic structure of expo app.
-   * The main screen (index.tsx).
-   * Basic components - `View` and `Text`.
-* [x] Add navigation
-   * Expo router in the app directory.
-   * Layouts files.
-   * Defining different screens with `Stack` component.
-   * Navigate between screens with `Link` component.
-   * Not found route - `+not-found.tsx`.
-   * Grouped some screen together with parentheses `()`, and creating `Tabs` buttons.
-* [x] Build a screen
-   * Using `expo-image` library.
-   * Divide components into seperate files - the components directory.
-   * Create button with `Pressable` component.
-* [x] Use an image picker
-   * Using the library expo-image-picker to pick an image from the gallery of the local device, and edit the image before uploading it to the app.
-   * Using an async function `launchImageLibraryAsync()` from this library.
-   * Understanding the result that this function return, and how to use the `uri`, and the status of the `canceled` property. 
-   * Implement all in the app.
-* [x] Create a modal
-   * Use `<Modal>` component.
-   * Using with the `@expo/vector-icons` library. 
-   * Creating list of emojies for the modal from the assets directory.
-   * Using `ImageSourcePropType` from react-native for put the emoji on the image.
-* [x] Add gestures
-   * Learn how to manipulate an image with duble tap.
-   * Learn how to manipulate an image with drag it and change the location on the screen.
-* [x] Take a screenshot
-   * Install the `react-native-view-shot` and `expo-media-library` packages.
-   * Using with `requestPremission()` to get premission to the library of the machine.
-   * Capture the specific frame view in the screen and save it to the library.
-* [x] Handle platform differecnes
-   * Install `dom-to-image` library.
-   * Make the save image feature useful in mobile platforms (Android and iOS) and in a web platform both.
-* [ ] Configure status bar, splash screen and app icon
-* [ ] Learning resources
- 
+
+- [x] Create an app
+  - Create new app with `create-expo-app`.
+  - The basic structure of expo app.
+  - The main screen (index.tsx).
+  - Basic components - `View` and `Text`.
+- [x] Add navigation
+  - Expo router in the app directory.
+  - Layouts files.
+  - Defining different screens with `Stack` component.
+  - Navigate between screens with `Link` component.
+  - Not found route - `+not-found.tsx`.
+  - Grouped some screen together with parentheses `()`, and creating `Tabs` buttons.
+- [x] Build a screen
+  - Using `expo-image` library.
+  - Divide components into seperate files - the components directory.
+  - Create button with `Pressable` component.
+- [x] Use an image picker
+  - Using the library expo-image-picker to pick an image from the gallery of the local device, and edit the image before uploading it to the app.
+  - Using an async function `launchImageLibraryAsync()` from this library.
+  - Understanding the result that this function return, and how to use the `uri`, and the status of the `canceled` property.
+  - Implement all in the app.
+- [x] Create a modal
+  - Use `<Modal>` component.
+  - Using with the `@expo/vector-icons` library.
+  - Creating list of emojies for the modal from the assets directory.
+  - Using `ImageSourcePropType` from react-native for put the emoji on the image.
+- [x] Add gestures
+  - Learn how to manipulate an image with duble tap.
+  - Learn how to manipulate an image with drag it and change the location on the screen.
+- [x] Take a screenshot
+  - Install the `react-native-view-shot` and `expo-media-library` packages.
+  - Using with `requestPremission()` to get premission to the library of the machine.
+  - Capture the specific frame view in the screen and save it to the library.
+- [x] Handle platform differecnes
+  - Install `dom-to-image` library.
+  - Make the save image feature useful in mobile platforms (Android and iOS) and in a web platform both.
+- [x] Configure status bar, splash screen and app icon
+  - Control the `StatusBar` on the top line of the screen.
+  - How to change the `icon.png` file to control on the application's icon.
+  - Splash screen - The screen that shows when the app is loading.
+- [x] Learning resources
+
 ### Part 2 - EAS tutorial
-* [ ] Configuration development build
-* [ ] Android development build
-* [ ] iOS development build for simulators
-* [ ] iOS development build for devices
-* [ ] Multiple app variants
-* [ ] Internal distribution build
-* [ ] Manage app versions
-* [ ] Android build production
-* [ ] iOS production build
-* [ ] Share previews
-* [ ] Builds from GitHub
+
+- [x] Configuration development build
+- [ ] Android development build
+- [ ] iOS development build for simulators
+- [ ] iOS development build for devices
+- [ ] Multiple app variants
+- [ ] Internal distribution build
+- [ ] Manage app versions
+- [ ] Android build production
+- [ ] iOS production build
+- [ ] Share previews
+- [ ] Builds from GitHub
 
 ## Get started
 
